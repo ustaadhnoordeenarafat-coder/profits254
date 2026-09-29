@@ -21,7 +21,7 @@ import Audio from '../components/audio';
 import BlocklyLoading from '../components/blockly-loading';
 import BotStopped from '../components/bot-stopped';
 import BotBuilder from '../pages/bot-builder';
-import Main from '../pages/main';
+import Main from '../pages/main';src/components/market/MarketAnalysis.tsx
 import './app.scss';
 import 'react-toastify/dist/ReactToastify.css';
 import '../components/bot-notification/bot-notification.scss';
